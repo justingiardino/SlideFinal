@@ -1,1 +1,6 @@
 *.pyc
+Mazes\maze_layout_another_complex.txt
+Mazes\maze_layout_last_complex.txt
+Mazes\maze_layout_more_complex.txt
+Mazes\maze_layout_more_complex2.txt
+Mazes\maze_layout_no_alt_path.txt
